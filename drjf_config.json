@@ -1,0 +1,14 @@
+{
+  "username": "学号",
+  "password": "密码",
+  "custRechNo": "楼号-宿舍号",
+  "sessionFile": "session_dump.json",
+  "merchantId": 113377,
+  "userInfoId": null,
+  "rechMerMapId": 326,
+  "sessiontoken": "",
+  "timeout": 20,
+  "loginTimeout": 20,
+  "queryRetry": 3,
+  "retrySleep": 2
+}
