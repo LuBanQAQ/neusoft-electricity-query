@@ -94,3 +94,6 @@ python drjf_auto.py --custRechNo 宿舍号 --timeout 30
 
 - 增大 `queryRetry` 和 `retrySleep`。
 - 例如：`queryRetry: 5`、`retrySleep: 3`。
+---
+
+由 **大连东软信息学院微光网络工作室** 出品
